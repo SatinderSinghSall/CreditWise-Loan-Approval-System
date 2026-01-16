@@ -96,8 +96,6 @@ Model Evaluation
 Loan Approval Prediction
 ```
 
-````
-
 ---
 
 ## 📊 Model Evaluation Metrics
@@ -118,7 +116,6 @@ These metrics help balance **business risk** and **approval fairness**.
 
 - **Programming Language:** Python 🐍
 - **Libraries Used:**
-
   - NumPy
   - Pandas
   - Matplotlib / Seaborn
@@ -146,7 +143,7 @@ CreditWise-Loan-System/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/CreditWise-Loan-System.git
+   git clone https://github.com/SatinderSinghSall/CreditWise-Loan-Approval-System
    ```
 
 2. **Navigate to the project directory**
@@ -200,4 +197,3 @@ CreditWise-Loan-System/
 
 This project is intended for **educational and research purposes**.
 Commercial usage requires appropriate authorization.
-````
